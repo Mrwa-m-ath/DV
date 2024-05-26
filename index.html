@@ -16,7 +16,7 @@
     the `--base-href` argument provided to `flutter build`.
   -->
 
-  <base href="/">
+  <base href="./">
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
@@ -35,7 +35,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "557904446";
+    const serviceWorkerVersion = "1300489453";
   </script>
 
   ...
@@ -63,21 +63,29 @@
       }
     });
   });
+// Import the functions you need from the SDKs you need
+// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
-      const firebaseConfig = {
-      apiKey: "AIzaSyD9ZtknvYh55suxLXhZ3VI-dbiG2CmUqng",
-      authDomain: "latpro-315b7.firebaseapp.com",
-      projectId: "latpro-315b7",
-      storageBucket: "latpro-315b7.appspot.com",
-      messagingSenderId: "28724327328",
-      appId: "1:28724327328:web:154334e71047cee25aeac5",
-      measurementId: "G-CRCEPB6HSY"
-    };
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyD9ZtknvYh55suxLXhZ3VI-dbiG2CmUqng",
+  authDomain: "latpro-315b7.firebaseapp.com",
+  databaseURL: "https://latpro-315b7-default-rtdb.firebaseio.com",
+  projectId: "latpro-315b7",
+  storageBucket: "latpro-315b7.appspot.com",
+  messagingSenderId: "28724327328",
+  appId: "1:28724327328:web:154334e71047cee25aeac5",
+  measurementId: "G-CRCEPB6HSY"
+};
+
+// Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
-
 </script>
 </body>
 </html>
