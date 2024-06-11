@@ -28937,7 +28937,7 @@ g=A.Q(a3,30,a3)
 j=A.bW(B.q0,a3,a3,90)
 e=A.Q(a3,a3,20)
 d=A.a9(b1,a8).x==="en"?"Establishment Date":" \u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0625\u0646\u0634\u0627\u0621"
-k=A.a_(a3,A.b2(A.a([h,i,f,g,A.bl(A.a([j,e,A.b2(A.a([A.W(d,a3,a3,a3,a3,a3,A.S(a3,a3,B.ae,a3,a3,a3,a3,a3,a3,a3,a3,13,a3,a3,B.p,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.bt,a3,a3),A.z5(0,A.bZ(0,0,1,0),2024," ",A.S(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,36,a3,a3,B.p,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3))],b0),B.o,B.q,B.m)],b0),B.av,B.q,B.m)],b0),B.av,B.aa,B.m),B.f,a3,a3,new A.aB(B.bP,a3,l,k,a3,a3,a3,B.u),a3,600,a3,a3,a3,a3,250)
+k=A.a_(a3,A.b2(A.a([h,i,f,g,A.bl(A.a([j,e,A.b2(A.a([A.W(d,a3,a3,a3,a3,a3,A.S(a3,a3,B.ae,a3,a3,a3,a3,a3,a3,a3,a3,13,a3,a3,B.p,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3),B.bt,a3,a3),A.z5(0,A.bZ(0,0,1,0),2024," ",A.S(a3,a3,B.e,a3,a3,a3,a3,a3,a3,a3,a3,36,a3,a3,B.p,a3,a3,!0,a3,a3,a3,a3,a3,a3,a3,a3))],b0),B.o,B.q,B.m)],b0),B.av,B.q,B.m)],b0),B.av,B.q,B.m),B.f,a3,a3,new A.aB(B.bP,a3,l,k,a3,a3,a3,B.u),a3,400,a3,a3,a3,a3,250)
 l=A.Q(a3,30,a3)
 d=$.aJB()
 $.a7p()
