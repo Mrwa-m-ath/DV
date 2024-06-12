@@ -94765,8 +94765,8 @@ d=A.fv(A.a80(A.a([A.anI("MOBEVAC",A.bO(0,0,0,3),!1)],c),!0,i),i,i,B.bc,!0,d,i,i,
 s=A.Q(i,20,i)
 r=A.R(i,i,B.k,i,i,i,i,i,A.aRW().$0().d,i,i,23,i,i,i,i,i,!0,i,i,i,i,i,i,i,i)
 q=t.p
-g=A.hV(B.nx,A.a([new A.a3(B.a5,h,i),A.Y(i,A.b2(A.a([d,s,A.fv(A.a80(A.a([A.anI(" W   e   l   c   o   m   e",A.bO(0,0,0,3),!1)],c),!0,new A.abG()),i,i,B.bc,!0,r,i,i,B.av)],q),B.n,B.a0,B.m),B.f,i,i,new A.ay(i,i,new A.dv(new A.b9(e,9,B.E,-1),new A.b9(f,9,B.E,-1),B.D,new A.b9(g,9,B.E,-1)),i,i,i,i,B.u),i,250,i,i,i,i,300)],q),B.Q,B.bb,i)
-f=A.Q(i,12,i)
+g=A.hV(B.nx,A.a([new A.a3(B.a5,h,i),A.Y(i,A.b2(A.a([d,s,A.fv(A.a80(A.a([A.anI(" W   e   l   c   o   m   e",A.bO(0,0,0,3),!1)],c),!0,new A.abG()),i,i,B.bc,!0,r,i,i,B.av)],q),B.n,B.a0,B.m),B.f,i,i,new A.ay(i,i,new A.dv(new A.b9(e,9,B.E,-1),new A.b9(f,9,B.E,-1),B.D,new A.b9(g,9,B.E,-1)),i,i,i,i,B.u),i,210,i,i,i,i,250)],q),B.Q,B.bb,i)
+f=A.Q(i,5,i)
 h=t.G
 e=A.a9(a,h).x==="en"?"Who we are":"\u0645\u0646 \u0646\u062d\u0646"
 e=A.W(e,i,i,i,i,i,A.R(i,i,B.e,i,i,i,i,i,A.aEI().$0().d,i,i,40,i,i,B.p,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)
